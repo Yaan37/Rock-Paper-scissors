@@ -66,6 +66,6 @@ Feel free to contribute! You can fork the repository, make improvements, or sugg
 ## 📜 License
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
-## 👋 Acknowledgments
+## 👋 Acknowledgment
 Thanks to the Python community for creating such a powerful and simple language for game development.
 Emojis are used for a more fun and engaging experience!
